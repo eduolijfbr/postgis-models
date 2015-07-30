@@ -14,5 +14,6 @@ Modelos e snippets de código para PostgreSQL + PostGIS;
 
 # Template
 
-Existe um template disponível neste repositório para a colocação dos snippets e modelo, na pasta template-model.
+Existe um template disponível neste repositório para a colocação dos snippets e modelo, na pasta template.
 Basta copiar a pasta e colar dentro do repositório, alterar seu nome e preencher os arquivos conforme necessário.
+Dentro de cada arquivo está uma pequena documentação de como cada um deve ser usado.
