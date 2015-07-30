@@ -1,5 +1,6 @@
 # postgis-models
-Modelos de dados para dados espaciais
+
+Modelos e snippets de código para PostgreSQL + PostGIS;
 
 # Como contribuir
 
@@ -13,5 +14,5 @@ Modelos de dados para dados espaciais
 
 # Template
 
-Existe um template disponível neste repositório para a colocação dos snippets, na pasta template-model.
+Existe um template disponível neste repositório para a colocação dos snippets e modelo, na pasta template-model.
 Basta copiar a pasta e colar dentro do repositório, alterar seu nome e preencher os arquivos conforme necessário.
